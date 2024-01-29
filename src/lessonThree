@@ -1,0 +1,7 @@
+OrderDetails.OrderID()Orders.OrderID
+OrderDetails.ProductID()Products.ProductID
+Orders.CustomerID()Customers.CustomerID
+Orders.EmployeeID()Employees.EmployeeID
+Orders.ShipperID()Shippers.ShipperID
+Products.SupplierID()Shippers.SupplierID
+Products.CategoryID()Categoris.CategoryID
